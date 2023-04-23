@@ -1,0 +1,372 @@
+/* Jamie Homepage */
+.Homepage-body {
+    margin: 0;
+    padding: 0;
+  }
+
+  img#cute-frogs-home {
+    width: 500px;
+    height: 200px;
+    margin-top: 0px;
+  }
+
+  /* Jamie Homepage */
+  #Home-Page-container {
+    width: 60%;
+    text-align: center;
+    background-color: lavender;
+    margin-top: 0px;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 5px solid green;
+    margin: auto;
+    border-radius: 10px;
+  }
+
+  /* Jamie Homepage */
+  h1#Welcome-message {
+    margin: 0;
+    font-size: 36px;
+    color:rgb(157, 69, 160);
+    font-family: 'Indie Flower', cursive;
+    margin-top: 0px;
+  }  
+
+  /* Jamie Homepage */
+  .section-title {
+    margin: 0;
+    font-size: 24px;
+    color: #333;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Jamie Homepage */
+  #left-container {
+    float: left;
+    margin-left: 400px;
+    margin-top: 40px;
+    text-decoration: underline;
+    border: 5px solid purple;
+    background-color: #f7e6d2;
+    padding: 10px;
+    font-family: 'Comic Sans MS', cursive;
+    box-shadow: 3px 5px 5px 3px rgba(0, 0, 0, 0.75);
+    border-radius: 10px;
+  }
+
+  /* Jamie Homepage */
+  a#about-link {
+    color: rgb(27, 113, 88);
+  }
+  a#about-link:visited {
+    color: #680f9b
+  }
+
+  /* Jamie Homepage */
+  a#hobbies-link {
+    color: rgb(27, 113, 88);
+  }
+  a#hobbies-link:visited {
+    color: #680f9b
+  }
+
+  /* Jamie Homepage */
+  img#about-home-pic {
+    height: 300px;
+    width: 400px;
+    margin-top: 190px;
+    margin-left: -300px;
+    border: 5px solid green;
+    border-radius: 10px;
+  }
+
+   /* Jamie Homepage */
+   img#hobbies-home-pic {
+    height: 300px;
+    width: 400px;
+    margin-top: -690px;
+    margin-left: 1150px;
+    margin-bottom: 18px;
+    border: 5px solid green;
+    border-radius: 10px;
+  }
+
+  /* Jamie Homepage */
+  img#lavender-home {
+    margin-left: 830px;
+    margin-top: -590px;
+    margin-bottom: 25px;
+    height: 250px;
+  }
+
+  /* Jamie Homepage */
+  #right-container {
+    float: right;
+    margin-right: 400px;
+    margin-top: 40px;
+    text-decoration: underline;
+    border: 5px solid purple;
+    background-color: #f7e6d2;
+    padding: 10px;
+    font-family: 'Comic Sans MS', cursive;
+    box-shadow: 3px 5px 5px 3px rgba(0, 0, 0, 0.75);
+    border-radius: 10px;
+  }
+
+/* Jamie Homepage */
+body {background-color: #c8e6c9;}
+
+
+/* Jamie Hobbies */
+.Hobbies-body{
+  margin: 0;
+  padding: 0;
+}
+  
+  /* Jamie Hobbies */
+  #Hobbies-Page-container {
+    width: 30%;
+    float: center;
+    text-align: center;
+    background-color: lavender;
+    margin-top: 0px;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 5px solid green;
+    margin: auto;
+    border-radius: 10px;}
+
+    /* Jamie Hobbies */
+    img#cute-frog-hobbies {
+      height: 200px;
+      width: 200px;
+      margin-top: -30px;
+     }
+  
+  /* Jamie Hobbies */
+  h1#Jamie-hobbies-heading {
+    margin: 0;
+    font-size: 36px;
+    color:rgb(157, 69, 160);
+    font-family: 'Indie Flower', cursive;
+    margin-top: -20px;
+    }
+
+  /* Jamie Hobbies */  
+  h3#Jamie-enjoys-a {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 24px;
+  }
+
+  /* Jamie Hobbies */
+  #art-pic-container {
+    float:center;
+    margin-left: 0px;
+    margin-top: 40px;
+    text-decoration: none;
+    text-align: center;
+    border: 5px solid purple;
+    background-color: #f7e6d2;
+    padding: 10px;
+    font-family: 'Comic Sans MS', cursive;
+    box-shadow: 3px 5px 5px 3px rgba(0, 0, 0, 0.75);
+    border-radius: 10px; 
+  }
+
+  /* Jamie Hobbies */
+  img#art-hobbies-pic1{
+    height: 500px;
+    width: 500px;
+    border: 3px solid green;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+  }
+
+  /* Jamie Hobbies */
+  img#art-hobbies-pic2{
+    height: 500px;
+    width: 500px;
+    border: 3px solid green;
+    margin-left: 50px;
+    margin-bottom: 30px;
+  }
+
+  /* Jamie Hobbies */
+  img#art-hobbies-pic3{
+    height: 500px;
+    width: 500px;
+    border: 3px solid green;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+  }
+
+  /* Jamie Hobbies */
+  #travel-pic-container {
+    float: center;
+    margin-left: 0px;
+    margin-top: 40px;
+    text-decoration: none;
+    text-align: center;
+    border: 5px solid purple;
+    background-color: #b4d3fd;
+    padding: 10px;
+    font-family: 'Comic Sans MS', cursive;
+    box-shadow: 3px 5px 5px 3px rgba(0, 0, 0, 0.75);
+    border-radius: 10px;
+  }
+
+  /* Jamie Hobbies */
+  img#travel-pic1{
+    height: 500px;
+    width: 500px;
+    border: 3px solid green;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+  }
+
+  /* Jamie Hobbies */
+  img#travel-pic2{
+    height: 500px;
+    width: 500px;
+    border: 3px solid green;
+    margin-left: 50px;
+    margin-bottom: 30px;
+  }
+
+  /* Jamie Hobbies */
+  img#travel-pic3{
+    height: 500px;
+    width: 600px;
+    border: 3px solid green;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+  }
+
+  /* Jamie Hobbies */
+  #videogames-pic-container {
+    float:center;
+    margin-left: 0px;
+    margin-top: 40px;
+    text-decoration: none;
+    text-align: center;
+    border: 5px solid purple;
+    background-color: #88c3b2;
+    padding: 10px;
+    font-family: 'Comic Sans MS', cursive;
+    box-shadow: 3px 5px 5px 3px rgba(0, 0, 0, 0.75);
+    border-radius: 10px; 
+  }
+
+  /* Jamie Hobbies */
+  img#videogame-pic1{
+    height: 400px;
+    width: 500px;
+    border: 3px solid purple;
+    margin-top: 10px;
+    margin-left: 0px;
+    margin-bottom: 30px;
+  }
+
+  /* Jamie Hobbies */
+  img#videogame-pic2{
+    height: 400px;
+    width: 500px;
+    border: 3px solid purple;
+    margin-left: 50px;
+    margin-bottom: 30px;
+  }
+
+  /* Jamie Hobbies */
+  img#videogame-pic3{
+    height: 400px;
+    width: 500px;
+    border: 3px solid purple;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+  }
+
+  /* Jamie Hobbies */
+body {background-color: #c8e6c9;}
+
+
+#About-Page-container {
+  width: 30%;
+  float: center;
+  text-align: center;
+  background-color: #f7e6d2;
+  margin-top: 0px;
+  padding: 20px;
+  box-sizing: border-box;
+  border: 5px solid green;
+  margin: auto;
+  border-radius: 10px;
+}
+
+img#cat-about{
+  width: 500px;
+  height: 200px;
+  margin-top: 0px;
+}
+
+h1#About-welcome-message {
+  margin: 0;
+  font-size: 36px;
+  color:rgb(157, 69, 160);
+  font-family: 'Indie Flower', cursive;
+  margin-top: -20px;
+}
+
+#About-content-container {
+  float: center;
+  margin-left: 0px;
+  margin-top: 40px;
+  text-decoration: none;
+  text-align: center;
+  border: 5px solid purple;
+  background-color: #b4d3fd;
+  padding: 10px;
+  font-family: 'Comic Sans MS', cursive;
+  box-shadow: 3px 5px 5px 3px rgba(0, 0, 0, 0.75);
+  border-radius: 10px;
+}
+
+img#about-pic1{
+height: 300px;
+width: 300px;
+border: 3px solid purple;
+margin-left: 50px;
+margin-right: 50px;
+margin-bottom: 30px;
+}
+
+img#about-pic2{
+height: 300px; 
+width: 300px;
+border: 3px solid purple;
+margin-left: 50px;
+margin-right: 50px;
+margin-bottom: 30px;
+}
+
+img#about-pic3{
+height: 300px;
+width: 300px;
+border: 3px solid purple;
+margin-left: 50px;
+margin-right: 50px;
+margin-bottom: 30px;}
+
+img#about-pic4{
+height: 300px;
+width: 300px;
+border: 3px solid purple;
+margin-left: 50px;
+margin-right: 50px;
+margin-bottom: 30px;
+}
