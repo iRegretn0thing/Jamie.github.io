@@ -152,11 +152,23 @@ body {background-color: #c8e6c9;}
     margin-top: -20px;
     }
 
+  /* Jamie Hobbies */
+  #Hobbies-content-container {
+  font-family: 'Indie Flower', cursive;
+  }
+  
   /* Jamie Hobbies */  
   h3#Jamie-enjoys-a {
     text-align: center;
     margin-top: 50px;
     font-size: 24px;
+  }
+  /* Jamie Hobbies */  
+  h3#back-home-link-hobbies {
+    text-align:left;
+    margin-top: 50px;
+    font-size: 24px;
+    margin-left: 30px;
   }
 
   /* Jamie Hobbies */
@@ -295,6 +307,7 @@ body {background-color: #c8e6c9;}
 body {background-color: #c8e6c9;}
 
 
+/* Jamie About */ 
 #About-Page-container {
   width: 30%;
   float: center;
@@ -308,12 +321,14 @@ body {background-color: #c8e6c9;}
   border-radius: 10px;
 }
 
+/* Jamie About */ 
 img#cat-about{
   width: 500px;
   height: 200px;
   margin-top: 0px;
 }
 
+/* Jamie About */ 
 h1#About-welcome-message {
   margin: 0;
   font-size: 36px;
@@ -322,6 +337,15 @@ h1#About-welcome-message {
   margin-top: -20px;
 }
 
+/* Jamie About */  
+h3#back-home-link-about {
+text-align:center;
+margin-top: 50px;
+font-size: 24px;
+margin-left: 30px;
+  }
+
+/* Jamie About */ 
 #About-content-container {
   float: center;
   margin-left: 0px;
@@ -336,6 +360,7 @@ h1#About-welcome-message {
   border-radius: 10px;
 }
 
+/* Jamie About */ 
 img#about-pic1{
 height: 300px;
 width: 300px;
@@ -345,6 +370,7 @@ margin-right: 50px;
 margin-bottom: 30px;
 }
 
+/* Jamie About */ 
 img#about-pic2{
 height: 300px; 
 width: 300px;
@@ -354,6 +380,7 @@ margin-right: 50px;
 margin-bottom: 30px;
 }
 
+/* Jamie About */ 
 img#about-pic3{
 height: 300px;
 width: 300px;
@@ -362,6 +389,7 @@ margin-left: 50px;
 margin-right: 50px;
 margin-bottom: 30px;}
 
+/* Jamie About */ 
 img#about-pic4{
 height: 300px;
 width: 300px;
